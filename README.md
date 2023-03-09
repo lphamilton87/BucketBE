@@ -42,7 +42,6 @@ We took a full TDD (Test Driven Development) approach using Jest and Supertest. 
 
 * To use this repository on your local machine you can for the repository run the command `git clone add_url_here`
 * You can then install the required dependencies by running `npm install` in your terminal
-* 
 
 ## Links
 
